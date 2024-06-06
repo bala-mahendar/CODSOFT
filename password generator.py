@@ -1,4 +1,10 @@
 import random as r 
+
+print("  ===========================")
+print("||                           ||")
+print("||     Password Generator    ||")
+print("||                           ||")
+print("  ===========================\n")
 def leng():
     length = int(input("Enter the length of the password : "))
     return length
